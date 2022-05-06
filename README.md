@@ -1,2 +1,2 @@
 # Generate_outliers
-Simple example how to generate outliers using numpy
+Простой пример, как сгенерировать ряды, содержашие выбросы, используя numpy random для тестирования методов очистки данных.
